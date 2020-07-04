@@ -2,7 +2,7 @@
 Dynamic resistance of diode for measurement and calculation. clone, see original source described following,  
 
 [oroginal source code, C#, 精确测量二极管参数应用软件源程序](http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1828102&extra=page%3D1)  
-[how to uses, 精确测量二极管RD的方法,](http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1828102&extra=page%3D1)    
+[how to uses, 精确测量二极管Rd的方法,](http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1828102&extra=page%3D1)    
 
 references,  
 [A Procedure for Measuring the Saturation Current and Ideality Factor of a Diode, along with Measurements on various diodes](http://kearman.com/bentongue/xtalset/16MeaDio/16MeaDio.html)  
