@@ -1,7 +1,9 @@
 # Diode_Equation_Id_Is_measurement  
 Dynamic resistance of diode for measurement and calculation. clone, see original source described following,  
 
-### [oroginal source code, C#, 精确测量二极管参数应用软件源程序](http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1828102&extra=page%3D1)  
+### [oroginal source code, C#, 精确测量二极管参数应用软件源程序](http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1828102&extra=page%3D1) 
+### [2nd version], according to author, bug fix for memory leakage (http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1828889&page=1#pid23091557)  
+  
 ### [how to uses, 精确测量二极管Rd的方法,](http://www.crystalradio.cn/forum.php?mod=viewthread&tid=1828102&extra=page%3D1)    
 
   
